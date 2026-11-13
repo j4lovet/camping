@@ -1,0 +1,40 @@
+{"t": "2026-11-02T15:10:04.302+09:00", "event": "check", "day": "2026-11-02", "result": "NOT_OPEN", "previous": null, "inspect_ms": 28, "rush": false}
+{"t": "2026-11-02T15:10:04.684+09:00", "event": "check", "day": "2026-11-09", "result": "SITE_SOLD_OUT", "previous": null, "inspect_ms": 382, "rush": false}
+{"t": "2026-11-02T15:10:09.318+09:00", "event": "check", "day": "2026-11-16", "result": "SITE_SOLD_OUT", "previous": null, "inspect_ms": 4633, "rush": false}
+{"t": "2026-11-02T15:10:13.735+09:00", "event": "check", "day": "2026-11-23", "result": "SITE_SOLD_OUT", "previous": null, "inspect_ms": 4416, "rush": false}
+{"t": "2026-11-02T15:10:18.409+09:00", "event": "check", "day": "2026-11-30", "result": "SITE_SOLD_OUT", "previous": null, "inspect_ms": 4672, "rush": false}
+{"t": "2026-11-02T15:10:22.918+09:00", "event": "check", "day": "2026-12-07", "result": "NOT_OPEN", "previous": null, "inspect_ms": 4509, "rush": false}
+{"t": "2026-11-02T15:10:22.986+09:00", "event": "check", "day": "2026-12-14", "result": "NOT_OPEN", "previous": null, "inspect_ms": 67, "rush": false}
+{"t": "2026-11-02T15:31:53.385+09:00", "event": "attempt", "day": "2026-11-11", "phase": "CAPTCHA_REQUIRED", "prepare_ms": 650, "next_to_phase_ms": 316}
+{"t": "2026-11-02T16:46:13.440+09:00", "event": "check", "day": "2026-11-07", "result": "ZONE_SOLD_OUT", "previous": null, "inspect_ms": 32, "rush": false}
+{"t": "2026-11-02T16:46:13.466+09:00", "event": "check", "day": "2026-11-14", "result": "ZONE_SOLD_OUT", "previous": null, "inspect_ms": 26, "rush": false}
+{"t": "2026-11-02T16:46:13.495+09:00", "event": "check", "day": "2026-11-21", "result": "ZONE_SOLD_OUT", "previous": null, "inspect_ms": 28, "rush": false}
+{"t": "2026-11-02T16:46:13.520+09:00", "event": "check", "day": "2026-11-28", "result": "ZONE_SOLD_OUT", "previous": null, "inspect_ms": 24, "rush": false}
+{"t": "2026-11-02T16:46:14.119+09:00", "event": "check", "day": "2026-12-05", "result": "NOT_OPEN", "previous": null, "inspect_ms": 599, "rush": false}
+{"t": "2026-11-02T16:46:14.139+09:00", "event": "check", "day": "2026-12-12", "result": "NOT_OPEN", "previous": null, "inspect_ms": 19, "rush": false}
+{"t": "2026-11-03T09:00:29.838+09:00", "event": "attempt", "day": "2026-11-03", "phase": "CAPTCHA_REQUIRED", "prepare_ms": 3337, "next_to_phase_ms": 309}
+{"t": "2026-11-03T09:02:24.406+09:00", "event": "attempt", "day": "2026-11-03", "phase": "CAPTCHA_REQUIRED", "prepare_ms": 774, "next_to_phase_ms": 300}
+{"t": "2026-11-03T09:03:05.353+09:00", "event": "check", "day": "2026-11-07", "result": "ZONE_SOLD_OUT", "previous": null, "inspect_ms": 32, "rush": false}
+{"t": "2026-11-03T09:03:05.380+09:00", "event": "check", "day": "2026-11-14", "result": "ZONE_SOLD_OUT", "previous": null, "inspect_ms": 27, "rush": false}
+{"t": "2026-11-03T09:03:06.012+09:00", "event": "check", "day": "2026-11-21", "result": "AVAILABLE", "previous": null, "inspect_ms": 631, "rush": false}
+{"t": "2026-11-03T09:03:06.981+09:00", "event": "attempt", "day": "2026-11-21", "phase": "CAPTCHA_REQUIRED", "prepare_ms": 677, "next_to_phase_ms": 291}
+{"t": "2026-11-03T09:10:06.963+09:00", "event": "check", "day": "2026-11-07", "result": "ZONE_SOLD_OUT", "previous": null, "inspect_ms": 33, "rush": false}
+{"t": "2026-11-03T09:10:06.991+09:00", "event": "check", "day": "2026-11-14", "result": "ZONE_SOLD_OUT", "previous": null, "inspect_ms": 27, "rush": false}
+{"t": "2026-11-03T09:10:07.690+09:00", "event": "check", "day": "2026-11-21", "result": "AVAILABLE", "previous": null, "inspect_ms": 699, "rush": false}
+{"t": "2026-11-03T09:10:08.609+09:00", "event": "attempt", "day": "2026-11-21", "phase": "CAPTCHA_REQUIRED", "prepare_ms": 645, "next_to_phase_ms": 273}
+{"t": "2026-11-03T09:11:07.650+09:00", "event": "check", "day": "2026-11-07", "result": "ZONE_SOLD_OUT", "previous": null, "inspect_ms": 54, "rush": false}
+{"t": "2026-11-03T09:11:07.686+09:00", "event": "check", "day": "2026-11-14", "result": "ZONE_SOLD_OUT", "previous": null, "inspect_ms": 35, "rush": false}
+{"t": "2026-11-03T09:11:08.397+09:00", "event": "check", "day": "2026-11-21", "result": "AVAILABLE", "previous": null, "inspect_ms": 711, "rush": false}
+{"t": "2026-11-03T09:11:09.387+09:00", "event": "attempt", "day": "2026-11-21", "phase": "CAPTCHA_REQUIRED", "prepare_ms": 728, "next_to_phase_ms": 261}
+{"t": "2026-11-03T09:27:21.780+09:00", "event": "check", "day": "2026-11-25", "result": "AVAILABLE", "previous": null, "inspect_ms": 1660, "rush": false}
+{"t": "2026-11-03T09:27:22.725+09:00", "event": "attempt", "day": "2026-11-25", "phase": "CAPTCHA_REQUIRED", "prepare_ms": 655, "next_to_phase_ms": 289}
+{"t": "2026-11-03T13:16:03.126+09:00", "event": "check", "day": "2026-11-14", "result": "ZONE_SOLD_OUT", "previous": null, "inspect_ms": 35, "rush": false}
+{"t": "2026-11-03T13:40:33.346+09:00", "event": "check", "day": "2026-11-07", "result": "ZONE_SOLD_OUT", "previous": null, "inspect_ms": 32, "rush": false}
+{"t": "2026-11-03T13:40:33.373+09:00", "event": "check", "day": "2026-11-14", "result": "ZONE_SOLD_OUT", "previous": null, "inspect_ms": 26, "rush": false}
+{"t": "2026-11-03T13:40:33.400+09:00", "event": "check", "day": "2026-11-21", "result": "ZONE_SOLD_OUT", "previous": null, "inspect_ms": 27, "rush": false}
+{"t": "2026-11-03T13:40:33.426+09:00", "event": "check", "day": "2026-11-28", "result": "ZONE_SOLD_OUT", "previous": null, "inspect_ms": 25, "rush": false}
+{"t": "2026-11-03T13:40:34.117+09:00", "event": "check", "day": "2026-12-05", "result": "NOT_OPEN", "previous": null, "inspect_ms": 691, "rush": false}
+{"t": "2026-11-03T13:40:34.138+09:00", "event": "check", "day": "2026-12-12", "result": "NOT_OPEN", "previous": null, "inspect_ms": 20, "rush": false}
+{"t": "2026-11-03T15:20:02.889+09:00", "event": "check", "day": "2026-12-04", "result": "NOT_OPEN", "previous": null, "inspect_ms": 973, "rush": false}
+{"t": "2026-11-04T11:43:01.599+09:00", "event": "check", "day": "2026-12-04", "result": "AVAILABLE", "previous": null, "inspect_ms": 12537, "rush": false}
+{"t": "2026-11-04T11:43:16.236+09:00", "event": "attempt", "day": "2026-12-04", "phase": "CAPTCHA_REQUIRED", "prepare_ms": 12467, "next_to_phase_ms": 2170}

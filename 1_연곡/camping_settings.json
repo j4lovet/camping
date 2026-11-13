@@ -1,0 +1,35 @@
+{
+  "site": [
+    "A135",
+    "A141",
+    "A144",
+    "A145",
+    "A140",
+    "A143"
+  ],
+  "checkin_dates": [
+    "2026-12-05"
+  ],
+  "weekdays": [
+    5
+  ],
+  "reminder_weekdays": [
+    5
+  ],
+  "nights": 1,
+  "headcount": 2,
+  "max_lookahead_days": 45,
+  "poll_seconds": 15,
+  "open_time": "10:00",
+  "fast_poll_seconds": 1,
+  "fast_before_seconds": 10,
+  "fast_after_seconds": 60,
+  "burst_poll_seconds": 0.1,
+  "burst_before_seconds": 2,
+  "burst_after_seconds": 20,
+  "stop_at_customer_form": true,
+  "fallback_all_sites": true,
+  "site_ranges": [
+    "A110~A148"
+  ]
+}

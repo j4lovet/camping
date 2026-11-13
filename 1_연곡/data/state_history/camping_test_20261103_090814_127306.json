@@ -1,0 +1,13 @@
+{
+  "phase": "REVIEW_REQUIRED",
+  "dates": {
+    "2026-11-03": "AVAILABLE"
+  },
+  "cycles": 0,
+  "updated_at": "2026-11-03T09:02:37.091317+09:00",
+  "active": {
+    "site": "A101",
+    "checkin": "2026-11-03",
+    "nights": 1
+  }
+}

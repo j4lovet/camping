@@ -1,0 +1,15 @@
+{
+  "phase": "REVIEW_REQUIRED",
+  "dates": {
+    "2026-11-07": "ZONE_SOLD_OUT",
+    "2026-11-14": "ZONE_SOLD_OUT",
+    "2026-11-21": "AVAILABLE"
+  },
+  "cycles": 0,
+  "updated_at": "2026-11-03T09:03:08.159002+09:00",
+  "active": {
+    "site": "A107",
+    "checkin": "2026-11-21",
+    "nights": 1
+  }
+}

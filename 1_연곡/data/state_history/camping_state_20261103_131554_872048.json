@@ -1,0 +1,14 @@
+{
+  "phase": "REVIEW_REQUIRED",
+  "dates": {
+    "2026-11-25": "AVAILABLE"
+  },
+  "cycles": 0,
+  "updated_at": "2026-11-03T09:28:11.324723+09:00",
+  "active": {
+    "site": "A104",
+    "checkin": "2026-11-25",
+    "checkout": "2026-11-27",
+    "nights": 2
+  }
+}

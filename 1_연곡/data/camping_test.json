@@ -1,0 +1,10 @@
+{
+  "phase": "RECOVERED",
+  "dates": {
+    "2026-11-03": "AVAILABLE"
+  },
+  "cycles": 0,
+  "updated_at": "2026-11-03T09:08:14.127306+09:00",
+  "previous_phase": "REVIEW_REQUIRED",
+  "recovery_archive": "camping_test_20261103_090814_127306.json"
+}
